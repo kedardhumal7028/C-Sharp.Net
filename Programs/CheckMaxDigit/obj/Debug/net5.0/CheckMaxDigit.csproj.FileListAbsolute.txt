@@ -1,0 +1,16 @@
+D:\C#\Programs\CheckMaxDigit\bin\Debug\net5.0\CheckMaxDigit.exe
+D:\C#\Programs\CheckMaxDigit\bin\Debug\net5.0\CheckMaxDigit.deps.json
+D:\C#\Programs\CheckMaxDigit\bin\Debug\net5.0\CheckMaxDigit.runtimeconfig.json
+D:\C#\Programs\CheckMaxDigit\bin\Debug\net5.0\CheckMaxDigit.runtimeconfig.dev.json
+D:\C#\Programs\CheckMaxDigit\bin\Debug\net5.0\CheckMaxDigit.dll
+D:\C#\Programs\CheckMaxDigit\bin\Debug\net5.0\ref\CheckMaxDigit.dll
+D:\C#\Programs\CheckMaxDigit\bin\Debug\net5.0\CheckMaxDigit.pdb
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.csproj.AssemblyReference.cache
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.AssemblyInfo.cs
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.dll
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\ref\CheckMaxDigit.dll
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.pdb
+D:\C#\Programs\CheckMaxDigit\obj\Debug\net5.0\CheckMaxDigit.genruntimeconfig.cache

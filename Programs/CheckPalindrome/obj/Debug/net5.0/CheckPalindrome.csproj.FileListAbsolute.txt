@@ -1,0 +1,16 @@
+D:\C#\Programs\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.exe
+D:\C#\Programs\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.deps.json
+D:\C#\Programs\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.runtimeconfig.json
+D:\C#\Programs\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.runtimeconfig.dev.json
+D:\C#\Programs\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.dll
+D:\C#\Programs\CheckPalindrome\bin\Debug\net5.0\ref\CheckPalindrome.dll
+D:\C#\Programs\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.pdb
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.csproj.AssemblyReference.cache
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.AssemblyInfo.cs
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.dll
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\ref\CheckPalindrome.dll
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.pdb
+D:\C#\Programs\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.genruntimeconfig.cache

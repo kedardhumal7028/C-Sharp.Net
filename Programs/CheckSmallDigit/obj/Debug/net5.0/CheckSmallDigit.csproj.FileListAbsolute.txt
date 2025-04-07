@@ -1,0 +1,16 @@
+D:\C#\Programs\CheckSmallDigit\bin\Debug\net5.0\CheckSmallDigit.exe
+D:\C#\Programs\CheckSmallDigit\bin\Debug\net5.0\CheckSmallDigit.deps.json
+D:\C#\Programs\CheckSmallDigit\bin\Debug\net5.0\CheckSmallDigit.runtimeconfig.json
+D:\C#\Programs\CheckSmallDigit\bin\Debug\net5.0\CheckSmallDigit.runtimeconfig.dev.json
+D:\C#\Programs\CheckSmallDigit\bin\Debug\net5.0\CheckSmallDigit.dll
+D:\C#\Programs\CheckSmallDigit\bin\Debug\net5.0\ref\CheckSmallDigit.dll
+D:\C#\Programs\CheckSmallDigit\bin\Debug\net5.0\CheckSmallDigit.pdb
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.csproj.AssemblyReference.cache
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.AssemblyInfo.cs
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.dll
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\ref\CheckSmallDigit.dll
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.pdb
+D:\C#\Programs\CheckSmallDigit\obj\Debug\net5.0\CheckSmallDigit.genruntimeconfig.cache

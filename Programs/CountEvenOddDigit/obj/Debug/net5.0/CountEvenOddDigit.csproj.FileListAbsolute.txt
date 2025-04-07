@@ -1,0 +1,16 @@
+D:\C#\Programs\CountEvenOddDigit\bin\Debug\net5.0\CountEvenOddDigit.exe
+D:\C#\Programs\CountEvenOddDigit\bin\Debug\net5.0\CountEvenOddDigit.deps.json
+D:\C#\Programs\CountEvenOddDigit\bin\Debug\net5.0\CountEvenOddDigit.runtimeconfig.json
+D:\C#\Programs\CountEvenOddDigit\bin\Debug\net5.0\CountEvenOddDigit.runtimeconfig.dev.json
+D:\C#\Programs\CountEvenOddDigit\bin\Debug\net5.0\CountEvenOddDigit.dll
+D:\C#\Programs\CountEvenOddDigit\bin\Debug\net5.0\ref\CountEvenOddDigit.dll
+D:\C#\Programs\CountEvenOddDigit\bin\Debug\net5.0\CountEvenOddDigit.pdb
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.csproj.AssemblyReference.cache
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.AssemblyInfoInputs.cache
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.AssemblyInfo.cs
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.dll
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\ref\CountEvenOddDigit.dll
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.pdb
+D:\C#\Programs\CountEvenOddDigit\obj\Debug\net5.0\CountEvenOddDigit.genruntimeconfig.cache

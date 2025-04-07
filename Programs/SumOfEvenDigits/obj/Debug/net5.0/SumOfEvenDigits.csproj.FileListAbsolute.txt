@@ -1,0 +1,15 @@
+D:\C#\Programs\SumOfEvenDigits\bin\Debug\net5.0\SumOfEvenDigits.exe
+D:\C#\Programs\SumOfEvenDigits\bin\Debug\net5.0\SumOfEvenDigits.deps.json
+D:\C#\Programs\SumOfEvenDigits\bin\Debug\net5.0\SumOfEvenDigits.runtimeconfig.json
+D:\C#\Programs\SumOfEvenDigits\bin\Debug\net5.0\SumOfEvenDigits.runtimeconfig.dev.json
+D:\C#\Programs\SumOfEvenDigits\bin\Debug\net5.0\SumOfEvenDigits.dll
+D:\C#\Programs\SumOfEvenDigits\bin\Debug\net5.0\ref\SumOfEvenDigits.dll
+D:\C#\Programs\SumOfEvenDigits\bin\Debug\net5.0\SumOfEvenDigits.pdb
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\SumOfEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\SumOfEvenDigits.AssemblyInfoInputs.cache
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\SumOfEvenDigits.AssemblyInfo.cs
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\SumOfEvenDigits.csproj.CoreCompileInputs.cache
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\SumOfEvenDigits.dll
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\ref\SumOfEvenDigits.dll
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\SumOfEvenDigits.pdb
+D:\C#\Programs\SumOfEvenDigits\obj\Debug\net5.0\SumOfEvenDigits.genruntimeconfig.cache

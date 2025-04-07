@@ -1,0 +1,15 @@
+D:\C#\Programs\SumOfDigit\bin\Debug\net5.0\SumOfDigit.exe
+D:\C#\Programs\SumOfDigit\bin\Debug\net5.0\SumOfDigit.deps.json
+D:\C#\Programs\SumOfDigit\bin\Debug\net5.0\SumOfDigit.runtimeconfig.json
+D:\C#\Programs\SumOfDigit\bin\Debug\net5.0\SumOfDigit.runtimeconfig.dev.json
+D:\C#\Programs\SumOfDigit\bin\Debug\net5.0\SumOfDigit.dll
+D:\C#\Programs\SumOfDigit\bin\Debug\net5.0\ref\SumOfDigit.dll
+D:\C#\Programs\SumOfDigit\bin\Debug\net5.0\SumOfDigit.pdb
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\SumOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\SumOfDigit.AssemblyInfoInputs.cache
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\SumOfDigit.AssemblyInfo.cs
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\SumOfDigit.csproj.CoreCompileInputs.cache
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\SumOfDigit.dll
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\ref\SumOfDigit.dll
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\SumOfDigit.pdb
+D:\C#\Programs\SumOfDigit\obj\Debug\net5.0\SumOfDigit.genruntimeconfig.cache

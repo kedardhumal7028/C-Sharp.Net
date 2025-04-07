@@ -1,0 +1,16 @@
+D:\C#\Programs\CountDigit\CountDigit\bin\Debug\net5.0\CountDigit.exe
+D:\C#\Programs\CountDigit\CountDigit\bin\Debug\net5.0\CountDigit.deps.json
+D:\C#\Programs\CountDigit\CountDigit\bin\Debug\net5.0\CountDigit.runtimeconfig.json
+D:\C#\Programs\CountDigit\CountDigit\bin\Debug\net5.0\CountDigit.runtimeconfig.dev.json
+D:\C#\Programs\CountDigit\CountDigit\bin\Debug\net5.0\CountDigit.dll
+D:\C#\Programs\CountDigit\CountDigit\bin\Debug\net5.0\ref\CountDigit.dll
+D:\C#\Programs\CountDigit\CountDigit\bin\Debug\net5.0\CountDigit.pdb
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.csproj.AssemblyReference.cache
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.AssemblyInfoInputs.cache
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.AssemblyInfo.cs
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.dll
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\ref\CountDigit.dll
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.pdb
+D:\C#\Programs\CountDigit\CountDigit\obj\Debug\net5.0\CountDigit.genruntimeconfig.cache

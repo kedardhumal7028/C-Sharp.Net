@@ -1,0 +1,16 @@
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\bin\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.exe
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\bin\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.deps.json
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\bin\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.runtimeconfig.json
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\bin\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.runtimeconfig.dev.json
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\bin\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.dll
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\bin\Debug\net5.0\ref\AcceptAndPrintFiveNumberUsingArray.dll
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\bin\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.pdb
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.csproj.AssemblyReference.cache
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.AssemblyInfo.cs
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.dll
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\ref\AcceptAndPrintFiveNumberUsingArray.dll
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.pdb
+D:\C#\Programs\AcceptAndPrintFiveNumberUsingArray\obj\Debug\net5.0\AcceptAndPrintFiveNumberUsingArray.genruntimeconfig.cache

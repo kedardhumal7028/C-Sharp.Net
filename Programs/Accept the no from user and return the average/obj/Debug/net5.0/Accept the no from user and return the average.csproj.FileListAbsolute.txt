@@ -1,0 +1,16 @@
+D:\C#\Programs\Accept the no from user and return the average\bin\Debug\net5.0\Accept the no from user and return the average.exe
+D:\C#\Programs\Accept the no from user and return the average\bin\Debug\net5.0\Accept the no from user and return the average.deps.json
+D:\C#\Programs\Accept the no from user and return the average\bin\Debug\net5.0\Accept the no from user and return the average.runtimeconfig.json
+D:\C#\Programs\Accept the no from user and return the average\bin\Debug\net5.0\Accept the no from user and return the average.runtimeconfig.dev.json
+D:\C#\Programs\Accept the no from user and return the average\bin\Debug\net5.0\Accept the no from user and return the average.dll
+D:\C#\Programs\Accept the no from user and return the average\bin\Debug\net5.0\ref\Accept the no from user and return the average.dll
+D:\C#\Programs\Accept the no from user and return the average\bin\Debug\net5.0\Accept the no from user and return the average.pdb
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.csproj.AssemblyReference.cache
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.AssemblyInfo.cs
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.dll
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\ref\Accept the no from user and return the average.dll
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.pdb
+D:\C#\Programs\Accept the no from user and return the average\obj\Debug\net5.0\Accept the no from user and return the average.genruntimeconfig.cache
