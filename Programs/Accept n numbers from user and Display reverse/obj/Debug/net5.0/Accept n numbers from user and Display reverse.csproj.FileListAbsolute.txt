@@ -1,0 +1,16 @@
+D:\C#\Programs\Accept n numbers from user and Display reverse\bin\Debug\net5.0\Accept n numbers from user and Display reverse.exe
+D:\C#\Programs\Accept n numbers from user and Display reverse\bin\Debug\net5.0\Accept n numbers from user and Display reverse.deps.json
+D:\C#\Programs\Accept n numbers from user and Display reverse\bin\Debug\net5.0\Accept n numbers from user and Display reverse.runtimeconfig.json
+D:\C#\Programs\Accept n numbers from user and Display reverse\bin\Debug\net5.0\Accept n numbers from user and Display reverse.runtimeconfig.dev.json
+D:\C#\Programs\Accept n numbers from user and Display reverse\bin\Debug\net5.0\Accept n numbers from user and Display reverse.dll
+D:\C#\Programs\Accept n numbers from user and Display reverse\bin\Debug\net5.0\ref\Accept n numbers from user and Display reverse.dll
+D:\C#\Programs\Accept n numbers from user and Display reverse\bin\Debug\net5.0\Accept n numbers from user and Display reverse.pdb
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.csproj.AssemblyReference.cache
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.AssemblyInfo.cs
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.dll
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\ref\Accept n numbers from user and Display reverse.dll
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.pdb
+D:\C#\Programs\Accept n numbers from user and Display reverse\obj\Debug\net5.0\Accept n numbers from user and Display reverse.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accept n no from user and check occurance with the index/1.0.0": {
+        "runtime": {
+          "Accept n no from user and check occurance with the index.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accept n no from user and check occurance with the index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

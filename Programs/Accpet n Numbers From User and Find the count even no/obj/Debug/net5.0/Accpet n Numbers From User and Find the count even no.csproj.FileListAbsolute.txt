@@ -1,0 +1,16 @@
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\bin\Debug\net5.0\Accpet n Numbers From User and Find the count even no.exe
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\bin\Debug\net5.0\Accpet n Numbers From User and Find the count even no.deps.json
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\bin\Debug\net5.0\Accpet n Numbers From User and Find the count even no.runtimeconfig.json
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\bin\Debug\net5.0\Accpet n Numbers From User and Find the count even no.runtimeconfig.dev.json
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\bin\Debug\net5.0\Accpet n Numbers From User and Find the count even no.dll
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\bin\Debug\net5.0\ref\Accpet n Numbers From User and Find the count even no.dll
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\bin\Debug\net5.0\Accpet n Numbers From User and Find the count even no.pdb
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.csproj.AssemblyReference.cache
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.AssemblyInfoInputs.cache
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.AssemblyInfo.cs
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.csproj.CoreCompileInputs.cache
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.dll
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\ref\Accpet n Numbers From User and Find the count even no.dll
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.pdb
+C:\Users\Kedar\source\repos\Accpet n Numbers From User and Find the count even no\obj\Debug\net5.0\Accpet n Numbers From User and Find the count even no.genruntimeconfig.cache

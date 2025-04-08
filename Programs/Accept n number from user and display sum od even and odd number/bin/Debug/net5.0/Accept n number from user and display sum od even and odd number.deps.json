@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accept n number from user and display sum od even and odd number/1.0.0": {
+        "runtime": {
+          "Accept n number from user and display sum od even and odd number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accept n number from user and display sum od even and odd number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

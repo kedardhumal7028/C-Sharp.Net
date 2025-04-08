@@ -1,0 +1,16 @@
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\bin\Debug\net5.0\Accept n number from user and display sum od even and odd number.exe
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\bin\Debug\net5.0\Accept n number from user and display sum od even and odd number.deps.json
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\bin\Debug\net5.0\Accept n number from user and display sum od even and odd number.runtimeconfig.json
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\bin\Debug\net5.0\Accept n number from user and display sum od even and odd number.runtimeconfig.dev.json
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\bin\Debug\net5.0\Accept n number from user and display sum od even and odd number.dll
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\bin\Debug\net5.0\ref\Accept n number from user and display sum od even and odd number.dll
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\bin\Debug\net5.0\Accept n number from user and display sum od even and odd number.pdb
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.csproj.AssemblyReference.cache
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.AssemblyInfo.cs
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.dll
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\ref\Accept n number from user and display sum od even and odd number.dll
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.pdb
+D:\C#\Programs\Accept n number from user and display sum od even and odd number\obj\Debug\net5.0\Accept n number from user and display sum od even and odd number.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\Programs\Accept n numbers from user and count frequency\bin\Debug\net5.0\Accept n numbers from user and count frequency.exe
+D:\C#\Programs\Accept n numbers from user and count frequency\bin\Debug\net5.0\Accept n numbers from user and count frequency.deps.json
+D:\C#\Programs\Accept n numbers from user and count frequency\bin\Debug\net5.0\Accept n numbers from user and count frequency.runtimeconfig.json
+D:\C#\Programs\Accept n numbers from user and count frequency\bin\Debug\net5.0\Accept n numbers from user and count frequency.runtimeconfig.dev.json
+D:\C#\Programs\Accept n numbers from user and count frequency\bin\Debug\net5.0\Accept n numbers from user and count frequency.dll
+D:\C#\Programs\Accept n numbers from user and count frequency\bin\Debug\net5.0\ref\Accept n numbers from user and count frequency.dll
+D:\C#\Programs\Accept n numbers from user and count frequency\bin\Debug\net5.0\Accept n numbers from user and count frequency.pdb
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.csproj.AssemblyReference.cache
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.AssemblyInfo.cs
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.dll
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\ref\Accept n numbers from user and count frequency.dll
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.pdb
+D:\C#\Programs\Accept n numbers from user and count frequency\obj\Debug\net5.0\Accept n numbers from user and count frequency.genruntimeconfig.cache

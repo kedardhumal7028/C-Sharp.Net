@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accept n numbers from user and count frequency/1.0.0": {
+        "runtime": {
+          "Accept n numbers from user and count frequency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accept n numbers from user and count frequency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

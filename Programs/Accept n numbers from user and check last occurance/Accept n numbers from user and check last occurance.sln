@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accept n numbers from user and check last occurance", "Accept n numbers from user and check last occurance.csproj", "{710B4618-5404-4571-A8FA-01BB1D002BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{710B4618-5404-4571-A8FA-01BB1D002BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710B4618-5404-4571-A8FA-01BB1D002BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710B4618-5404-4571-A8FA-01BB1D002BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710B4618-5404-4571-A8FA-01BB1D002BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90AD7E11-7601-4DE7-8FC0-94221E97A967}
+	EndGlobalSection
+EndGlobal

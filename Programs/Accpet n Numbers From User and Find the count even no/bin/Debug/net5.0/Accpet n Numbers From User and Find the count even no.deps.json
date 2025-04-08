@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accpet n Numbers From User and Find the count even no/1.0.0": {
+        "runtime": {
+          "Accpet n Numbers From User and Find the count even no.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accpet n Numbers From User and Find the count even no/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

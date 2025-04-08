@@ -1,0 +1,16 @@
+D:\C#\Programs\Accept n numbers from user and check last occurance\bin\Debug\net5.0\Accept n numbers from user and check last occurance.exe
+D:\C#\Programs\Accept n numbers from user and check last occurance\bin\Debug\net5.0\Accept n numbers from user and check last occurance.deps.json
+D:\C#\Programs\Accept n numbers from user and check last occurance\bin\Debug\net5.0\Accept n numbers from user and check last occurance.runtimeconfig.json
+D:\C#\Programs\Accept n numbers from user and check last occurance\bin\Debug\net5.0\Accept n numbers from user and check last occurance.runtimeconfig.dev.json
+D:\C#\Programs\Accept n numbers from user and check last occurance\bin\Debug\net5.0\Accept n numbers from user and check last occurance.dll
+D:\C#\Programs\Accept n numbers from user and check last occurance\bin\Debug\net5.0\ref\Accept n numbers from user and check last occurance.dll
+D:\C#\Programs\Accept n numbers from user and check last occurance\bin\Debug\net5.0\Accept n numbers from user and check last occurance.pdb
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.csproj.AssemblyReference.cache
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.AssemblyInfo.cs
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.dll
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\ref\Accept n numbers from user and check last occurance.dll
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.pdb
+D:\C#\Programs\Accept n numbers from user and check last occurance\obj\Debug\net5.0\Accept n numbers from user and check last occurance.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\Programs\Accept n Number from user and check occurance of digits\bin\Debug\net5.0\Accept n Number from user and check occurance of digits.exe
+D:\C#\Programs\Accept n Number from user and check occurance of digits\bin\Debug\net5.0\Accept n Number from user and check occurance of digits.deps.json
+D:\C#\Programs\Accept n Number from user and check occurance of digits\bin\Debug\net5.0\Accept n Number from user and check occurance of digits.runtimeconfig.json
+D:\C#\Programs\Accept n Number from user and check occurance of digits\bin\Debug\net5.0\Accept n Number from user and check occurance of digits.runtimeconfig.dev.json
+D:\C#\Programs\Accept n Number from user and check occurance of digits\bin\Debug\net5.0\Accept n Number from user and check occurance of digits.dll
+D:\C#\Programs\Accept n Number from user and check occurance of digits\bin\Debug\net5.0\ref\Accept n Number from user and check occurance of digits.dll
+D:\C#\Programs\Accept n Number from user and check occurance of digits\bin\Debug\net5.0\Accept n Number from user and check occurance of digits.pdb
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.csproj.AssemblyReference.cache
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.AssemblyInfo.cs
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.dll
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\ref\Accept n Number from user and check occurance of digits.dll
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.pdb
+D:\C#\Programs\Accept n Number from user and check occurance of digits\obj\Debug\net5.0\Accept n Number from user and check occurance of digits.genruntimeconfig.cache

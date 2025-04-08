@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accept n No from user and find maximum number in array/1.0.0": {
+        "runtime": {
+          "Accept n No from user and find maximum number in array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accept n No from user and find maximum number in array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

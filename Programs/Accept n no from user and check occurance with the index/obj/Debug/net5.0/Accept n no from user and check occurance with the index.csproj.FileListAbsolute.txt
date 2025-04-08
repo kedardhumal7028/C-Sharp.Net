@@ -1,0 +1,15 @@
+D:\C#\Programs\Accept n no from user and check occurance with the index\bin\Debug\net5.0\Accept n no from user and check occurance with the index.exe
+D:\C#\Programs\Accept n no from user and check occurance with the index\bin\Debug\net5.0\Accept n no from user and check occurance with the index.deps.json
+D:\C#\Programs\Accept n no from user and check occurance with the index\bin\Debug\net5.0\Accept n no from user and check occurance with the index.runtimeconfig.json
+D:\C#\Programs\Accept n no from user and check occurance with the index\bin\Debug\net5.0\Accept n no from user and check occurance with the index.runtimeconfig.dev.json
+D:\C#\Programs\Accept n no from user and check occurance with the index\bin\Debug\net5.0\Accept n no from user and check occurance with the index.dll
+D:\C#\Programs\Accept n no from user and check occurance with the index\bin\Debug\net5.0\ref\Accept n no from user and check occurance with the index.dll
+D:\C#\Programs\Accept n no from user and check occurance with the index\bin\Debug\net5.0\Accept n no from user and check occurance with the index.pdb
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\Accept n no from user and check occurance with the index.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\Accept n no from user and check occurance with the index.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\Accept n no from user and check occurance with the index.AssemblyInfo.cs
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\Accept n no from user and check occurance with the index.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\Accept n no from user and check occurance with the index.dll
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\ref\Accept n no from user and check occurance with the index.dll
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\Accept n no from user and check occurance with the index.pdb
+D:\C#\Programs\Accept n no from user and check occurance with the index\obj\Debug\net5.0\Accept n no from user and check occurance with the index.genruntimeconfig.cache

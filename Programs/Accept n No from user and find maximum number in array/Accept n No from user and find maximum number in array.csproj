@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Accept_n_No_from_user_and_find_maximum_number_in_array</RootNamespace>
+  </PropertyGroup>
+
+</Project>

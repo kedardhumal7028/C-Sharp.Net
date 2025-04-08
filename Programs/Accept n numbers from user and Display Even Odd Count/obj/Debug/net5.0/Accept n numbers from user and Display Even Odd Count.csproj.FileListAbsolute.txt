@@ -1,0 +1,16 @@
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\bin\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.exe
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\bin\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.deps.json
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\bin\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.runtimeconfig.json
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\bin\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.runtimeconfig.dev.json
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\bin\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.dll
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\bin\Debug\net5.0\ref\Accept n numbers from user and Display Even Odd Count.dll
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\bin\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.pdb
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.csproj.AssemblyReference.cache
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.AssemblyInfoInputs.cache
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.AssemblyInfo.cs
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.dll
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\ref\Accept n numbers from user and Display Even Odd Count.dll
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.pdb
+D:\C#\Programs\Accept n numbers from user and Display Even Odd Count\obj\Debug\net5.0\Accept n numbers from user and Display Even Odd Count.genruntimeconfig.cache

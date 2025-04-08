@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accept n numbers from user and count frequency", "Accept n numbers from user and count frequency.csproj", "{39379206-DA2E-4F52-9F62-79879AE1545D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39379206-DA2E-4F52-9F62-79879AE1545D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39379206-DA2E-4F52-9F62-79879AE1545D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39379206-DA2E-4F52-9F62-79879AE1545D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39379206-DA2E-4F52-9F62-79879AE1545D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E6DE27D-7338-4B22-ACA5-CF58C2A37B05}
+	EndGlobalSection
+EndGlobal
