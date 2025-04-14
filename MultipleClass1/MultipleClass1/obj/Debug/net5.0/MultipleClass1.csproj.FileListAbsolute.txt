@@ -1,0 +1,16 @@
+D:\C#\MultipleClass1\MultipleClass1\bin\Debug\net5.0\MultipleClass1.exe
+D:\C#\MultipleClass1\MultipleClass1\bin\Debug\net5.0\MultipleClass1.deps.json
+D:\C#\MultipleClass1\MultipleClass1\bin\Debug\net5.0\MultipleClass1.runtimeconfig.json
+D:\C#\MultipleClass1\MultipleClass1\bin\Debug\net5.0\MultipleClass1.runtimeconfig.dev.json
+D:\C#\MultipleClass1\MultipleClass1\bin\Debug\net5.0\MultipleClass1.dll
+D:\C#\MultipleClass1\MultipleClass1\bin\Debug\net5.0\ref\MultipleClass1.dll
+D:\C#\MultipleClass1\MultipleClass1\bin\Debug\net5.0\MultipleClass1.pdb
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.csproj.AssemblyReference.cache
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.AssemblyInfoInputs.cache
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.AssemblyInfo.cs
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.csproj.CoreCompileInputs.cache
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.dll
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\ref\MultipleClass1.dll
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.pdb
+D:\C#\MultipleClass1\MultipleClass1\obj\Debug\net5.0\MultipleClass1.genruntimeconfig.cache

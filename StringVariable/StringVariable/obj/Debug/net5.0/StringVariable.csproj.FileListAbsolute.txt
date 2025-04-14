@@ -1,0 +1,16 @@
+D:\C#\StringVariable\StringVariable\bin\Debug\net5.0\StringVariable.exe
+D:\C#\StringVariable\StringVariable\bin\Debug\net5.0\StringVariable.deps.json
+D:\C#\StringVariable\StringVariable\bin\Debug\net5.0\StringVariable.runtimeconfig.json
+D:\C#\StringVariable\StringVariable\bin\Debug\net5.0\StringVariable.runtimeconfig.dev.json
+D:\C#\StringVariable\StringVariable\bin\Debug\net5.0\StringVariable.dll
+D:\C#\StringVariable\StringVariable\bin\Debug\net5.0\ref\StringVariable.dll
+D:\C#\StringVariable\StringVariable\bin\Debug\net5.0\StringVariable.pdb
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.csproj.AssemblyReference.cache
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.AssemblyInfoInputs.cache
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.AssemblyInfo.cs
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.csproj.CoreCompileInputs.cache
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.dll
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\ref\StringVariable.dll
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.pdb
+D:\C#\StringVariable\StringVariable\obj\Debug\net5.0\StringVariable.genruntimeconfig.cache

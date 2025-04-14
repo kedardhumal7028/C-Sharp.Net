@@ -1,0 +1,16 @@
+D:\C#\Await and Async\bin\Debug\net5.0\Await and Async.exe
+D:\C#\Await and Async\bin\Debug\net5.0\Await and Async.deps.json
+D:\C#\Await and Async\bin\Debug\net5.0\Await and Async.runtimeconfig.json
+D:\C#\Await and Async\bin\Debug\net5.0\Await and Async.runtimeconfig.dev.json
+D:\C#\Await and Async\bin\Debug\net5.0\Await and Async.dll
+D:\C#\Await and Async\bin\Debug\net5.0\ref\Await and Async.dll
+D:\C#\Await and Async\bin\Debug\net5.0\Await and Async.pdb
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.csproj.AssemblyReference.cache
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.AssemblyInfoInputs.cache
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.AssemblyInfo.cs
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.csproj.CoreCompileInputs.cache
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.dll
+D:\C#\Await and Async\obj\Debug\net5.0\ref\Await and Async.dll
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.pdb
+D:\C#\Await and Async\obj\Debug\net5.0\Await and Async.genruntimeconfig.cache

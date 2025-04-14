@@ -1,0 +1,15 @@
+D:\C#\IntegerVariable\IntegerVariable\bin\Debug\net5.0\IntegerVariable.exe
+D:\C#\IntegerVariable\IntegerVariable\bin\Debug\net5.0\IntegerVariable.deps.json
+D:\C#\IntegerVariable\IntegerVariable\bin\Debug\net5.0\IntegerVariable.runtimeconfig.json
+D:\C#\IntegerVariable\IntegerVariable\bin\Debug\net5.0\IntegerVariable.runtimeconfig.dev.json
+D:\C#\IntegerVariable\IntegerVariable\bin\Debug\net5.0\IntegerVariable.dll
+D:\C#\IntegerVariable\IntegerVariable\bin\Debug\net5.0\ref\IntegerVariable.dll
+D:\C#\IntegerVariable\IntegerVariable\bin\Debug\net5.0\IntegerVariable.pdb
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\IntegerVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\IntegerVariable.AssemblyInfoInputs.cache
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\IntegerVariable.AssemblyInfo.cs
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\IntegerVariable.csproj.CoreCompileInputs.cache
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\IntegerVariable.dll
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\ref\IntegerVariable.dll
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\IntegerVariable.pdb
+D:\C#\IntegerVariable\IntegerVariable\obj\Debug\net5.0\IntegerVariable.genruntimeconfig.cache

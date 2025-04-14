@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 9\bin\Debug\net5.0\PatternPrinting 9.exe
+D:\C#\Programs\PatternPrinting 9\bin\Debug\net5.0\PatternPrinting 9.deps.json
+D:\C#\Programs\PatternPrinting 9\bin\Debug\net5.0\PatternPrinting 9.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 9\bin\Debug\net5.0\PatternPrinting 9.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 9\bin\Debug\net5.0\PatternPrinting 9.dll
+D:\C#\Programs\PatternPrinting 9\bin\Debug\net5.0\ref\PatternPrinting 9.dll
+D:\C#\Programs\PatternPrinting 9\bin\Debug\net5.0\PatternPrinting 9.pdb
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.dll
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\ref\PatternPrinting 9.dll
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.pdb
+D:\C#\Programs\PatternPrinting 9\obj\Debug\net5.0\PatternPrinting 9.genruntimeconfig.cache

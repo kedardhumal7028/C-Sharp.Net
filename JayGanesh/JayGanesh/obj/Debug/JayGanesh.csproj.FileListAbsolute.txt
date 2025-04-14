@@ -1,0 +1,7 @@
+C:\Users\Kedar\source\repos\JayGanesh\JayGanesh\bin\Debug\JayGanesh.exe.config
+C:\Users\Kedar\source\repos\JayGanesh\JayGanesh\bin\Debug\JayGanesh.exe
+C:\Users\Kedar\source\repos\JayGanesh\JayGanesh\bin\Debug\JayGanesh.pdb
+C:\Users\Kedar\source\repos\JayGanesh\JayGanesh\obj\Debug\JayGanesh.csproj.AssemblyReference.cache
+C:\Users\Kedar\source\repos\JayGanesh\JayGanesh\obj\Debug\JayGanesh.csproj.CoreCompileInputs.cache
+C:\Users\Kedar\source\repos\JayGanesh\JayGanesh\obj\Debug\JayGanesh.exe
+C:\Users\Kedar\source\repos\JayGanesh\JayGanesh\obj\Debug\JayGanesh.pdb

@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 3\bin\Debug\net5.0\PatternPrinting 3.exe
+D:\C#\Programs\PatternPrinting 3\bin\Debug\net5.0\PatternPrinting 3.deps.json
+D:\C#\Programs\PatternPrinting 3\bin\Debug\net5.0\PatternPrinting 3.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 3\bin\Debug\net5.0\PatternPrinting 3.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 3\bin\Debug\net5.0\PatternPrinting 3.dll
+D:\C#\Programs\PatternPrinting 3\bin\Debug\net5.0\ref\PatternPrinting 3.dll
+D:\C#\Programs\PatternPrinting 3\bin\Debug\net5.0\PatternPrinting 3.pdb
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.dll
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\ref\PatternPrinting 3.dll
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.pdb
+D:\C#\Programs\PatternPrinting 3\obj\Debug\net5.0\PatternPrinting 3.genruntimeconfig.cache

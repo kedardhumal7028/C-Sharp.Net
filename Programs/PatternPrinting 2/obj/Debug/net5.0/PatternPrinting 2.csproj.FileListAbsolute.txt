@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 2\bin\Debug\net5.0\PatternPrinting 2.exe
+D:\C#\Programs\PatternPrinting 2\bin\Debug\net5.0\PatternPrinting 2.deps.json
+D:\C#\Programs\PatternPrinting 2\bin\Debug\net5.0\PatternPrinting 2.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 2\bin\Debug\net5.0\PatternPrinting 2.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 2\bin\Debug\net5.0\PatternPrinting 2.dll
+D:\C#\Programs\PatternPrinting 2\bin\Debug\net5.0\ref\PatternPrinting 2.dll
+D:\C#\Programs\PatternPrinting 2\bin\Debug\net5.0\PatternPrinting 2.pdb
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.dll
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\ref\PatternPrinting 2.dll
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.pdb
+D:\C#\Programs\PatternPrinting 2\obj\Debug\net5.0\PatternPrinting 2.genruntimeconfig.cache

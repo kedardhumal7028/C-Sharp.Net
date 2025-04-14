@@ -1,0 +1,16 @@
+D:\C#\Linq Demo\bin\Debug\net5.0\Linq Demo.exe
+D:\C#\Linq Demo\bin\Debug\net5.0\Linq Demo.deps.json
+D:\C#\Linq Demo\bin\Debug\net5.0\Linq Demo.runtimeconfig.json
+D:\C#\Linq Demo\bin\Debug\net5.0\Linq Demo.runtimeconfig.dev.json
+D:\C#\Linq Demo\bin\Debug\net5.0\Linq Demo.dll
+D:\C#\Linq Demo\bin\Debug\net5.0\ref\Linq Demo.dll
+D:\C#\Linq Demo\bin\Debug\net5.0\Linq Demo.pdb
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.csproj.AssemblyReference.cache
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.AssemblyInfoInputs.cache
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.AssemblyInfo.cs
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.csproj.CoreCompileInputs.cache
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.dll
+D:\C#\Linq Demo\obj\Debug\net5.0\ref\Linq Demo.dll
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.pdb
+D:\C#\Linq Demo\obj\Debug\net5.0\Linq Demo.genruntimeconfig.cache
