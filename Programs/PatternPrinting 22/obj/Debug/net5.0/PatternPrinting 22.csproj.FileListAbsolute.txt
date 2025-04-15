@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 22\bin\Debug\net5.0\PatternPrinting 22.exe
+D:\C#\Programs\PatternPrinting 22\bin\Debug\net5.0\PatternPrinting 22.deps.json
+D:\C#\Programs\PatternPrinting 22\bin\Debug\net5.0\PatternPrinting 22.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 22\bin\Debug\net5.0\PatternPrinting 22.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 22\bin\Debug\net5.0\PatternPrinting 22.dll
+D:\C#\Programs\PatternPrinting 22\bin\Debug\net5.0\ref\PatternPrinting 22.dll
+D:\C#\Programs\PatternPrinting 22\bin\Debug\net5.0\PatternPrinting 22.pdb
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.dll
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\ref\PatternPrinting 22.dll
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.pdb
+D:\C#\Programs\PatternPrinting 22\obj\Debug\net5.0\PatternPrinting 22.genruntimeconfig.cache

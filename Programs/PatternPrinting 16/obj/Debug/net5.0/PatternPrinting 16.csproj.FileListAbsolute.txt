@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 16\bin\Debug\net5.0\PatternPrinting 16.exe
+D:\C#\Programs\PatternPrinting 16\bin\Debug\net5.0\PatternPrinting 16.deps.json
+D:\C#\Programs\PatternPrinting 16\bin\Debug\net5.0\PatternPrinting 16.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 16\bin\Debug\net5.0\PatternPrinting 16.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 16\bin\Debug\net5.0\PatternPrinting 16.dll
+D:\C#\Programs\PatternPrinting 16\bin\Debug\net5.0\ref\PatternPrinting 16.dll
+D:\C#\Programs\PatternPrinting 16\bin\Debug\net5.0\PatternPrinting 16.pdb
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.dll
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\ref\PatternPrinting 16.dll
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.pdb
+D:\C#\Programs\PatternPrinting 16\obj\Debug\net5.0\PatternPrinting 16.genruntimeconfig.cache

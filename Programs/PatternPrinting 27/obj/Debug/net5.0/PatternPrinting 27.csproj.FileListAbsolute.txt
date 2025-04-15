@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 27\bin\Debug\net5.0\PatternPrinting 27.exe
+D:\C#\Programs\PatternPrinting 27\bin\Debug\net5.0\PatternPrinting 27.deps.json
+D:\C#\Programs\PatternPrinting 27\bin\Debug\net5.0\PatternPrinting 27.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 27\bin\Debug\net5.0\PatternPrinting 27.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 27\bin\Debug\net5.0\PatternPrinting 27.dll
+D:\C#\Programs\PatternPrinting 27\bin\Debug\net5.0\ref\PatternPrinting 27.dll
+D:\C#\Programs\PatternPrinting 27\bin\Debug\net5.0\PatternPrinting 27.pdb
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.dll
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\ref\PatternPrinting 27.dll
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.pdb
+D:\C#\Programs\PatternPrinting 27\obj\Debug\net5.0\PatternPrinting 27.genruntimeconfig.cache

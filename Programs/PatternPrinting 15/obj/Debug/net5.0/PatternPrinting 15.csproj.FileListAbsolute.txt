@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 15\bin\Debug\net5.0\PatternPrinting 15.exe
+D:\C#\Programs\PatternPrinting 15\bin\Debug\net5.0\PatternPrinting 15.deps.json
+D:\C#\Programs\PatternPrinting 15\bin\Debug\net5.0\PatternPrinting 15.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 15\bin\Debug\net5.0\PatternPrinting 15.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 15\bin\Debug\net5.0\PatternPrinting 15.dll
+D:\C#\Programs\PatternPrinting 15\bin\Debug\net5.0\ref\PatternPrinting 15.dll
+D:\C#\Programs\PatternPrinting 15\bin\Debug\net5.0\PatternPrinting 15.pdb
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.dll
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\ref\PatternPrinting 15.dll
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.pdb
+D:\C#\Programs\PatternPrinting 15\obj\Debug\net5.0\PatternPrinting 15.genruntimeconfig.cache

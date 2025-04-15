@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 29\bin\Debug\net5.0\PatternPrinting 29.exe
+D:\C#\Programs\PatternPrinting 29\bin\Debug\net5.0\PatternPrinting 29.deps.json
+D:\C#\Programs\PatternPrinting 29\bin\Debug\net5.0\PatternPrinting 29.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 29\bin\Debug\net5.0\PatternPrinting 29.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 29\bin\Debug\net5.0\PatternPrinting 29.dll
+D:\C#\Programs\PatternPrinting 29\bin\Debug\net5.0\ref\PatternPrinting 29.dll
+D:\C#\Programs\PatternPrinting 29\bin\Debug\net5.0\PatternPrinting 29.pdb
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.dll
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\ref\PatternPrinting 29.dll
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.pdb
+D:\C#\Programs\PatternPrinting 29\obj\Debug\net5.0\PatternPrinting 29.genruntimeconfig.cache

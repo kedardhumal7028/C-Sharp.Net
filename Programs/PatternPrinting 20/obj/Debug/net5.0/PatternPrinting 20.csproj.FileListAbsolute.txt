@@ -1,0 +1,15 @@
+D:\C#\Programs\PatternPrinting 20\bin\Debug\net5.0\PatternPrinting 20.exe
+D:\C#\Programs\PatternPrinting 20\bin\Debug\net5.0\PatternPrinting 20.deps.json
+D:\C#\Programs\PatternPrinting 20\bin\Debug\net5.0\PatternPrinting 20.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 20\bin\Debug\net5.0\PatternPrinting 20.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 20\bin\Debug\net5.0\PatternPrinting 20.dll
+D:\C#\Programs\PatternPrinting 20\bin\Debug\net5.0\ref\PatternPrinting 20.dll
+D:\C#\Programs\PatternPrinting 20\bin\Debug\net5.0\PatternPrinting 20.pdb
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\PatternPrinting 20.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\PatternPrinting 20.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\PatternPrinting 20.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\PatternPrinting 20.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\PatternPrinting 20.dll
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\ref\PatternPrinting 20.dll
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\PatternPrinting 20.pdb
+D:\C#\Programs\PatternPrinting 20\obj\Debug\net5.0\PatternPrinting 20.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting 21\bin\Debug\net5.0\PatternPrinting 21.exe
+D:\C#\Programs\PatternPrinting 21\bin\Debug\net5.0\PatternPrinting 21.deps.json
+D:\C#\Programs\PatternPrinting 21\bin\Debug\net5.0\PatternPrinting 21.runtimeconfig.json
+D:\C#\Programs\PatternPrinting 21\bin\Debug\net5.0\PatternPrinting 21.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting 21\bin\Debug\net5.0\PatternPrinting 21.dll
+D:\C#\Programs\PatternPrinting 21\bin\Debug\net5.0\ref\PatternPrinting 21.dll
+D:\C#\Programs\PatternPrinting 21\bin\Debug\net5.0\PatternPrinting 21.pdb
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.dll
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\ref\PatternPrinting 21.dll
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.pdb
+D:\C#\Programs\PatternPrinting 21\obj\Debug\net5.0\PatternPrinting 21.genruntimeconfig.cache

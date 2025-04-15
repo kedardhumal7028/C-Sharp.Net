@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PatternPrinting 11/1.0.0": {
+        "runtime": {
+          "PatternPrinting 11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatternPrinting 11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

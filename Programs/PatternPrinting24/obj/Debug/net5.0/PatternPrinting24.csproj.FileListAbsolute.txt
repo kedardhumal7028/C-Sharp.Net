@@ -1,0 +1,16 @@
+D:\C#\Programs\PatternPrinting24\bin\Debug\net5.0\PatternPrinting24.exe
+D:\C#\Programs\PatternPrinting24\bin\Debug\net5.0\PatternPrinting24.deps.json
+D:\C#\Programs\PatternPrinting24\bin\Debug\net5.0\PatternPrinting24.runtimeconfig.json
+D:\C#\Programs\PatternPrinting24\bin\Debug\net5.0\PatternPrinting24.runtimeconfig.dev.json
+D:\C#\Programs\PatternPrinting24\bin\Debug\net5.0\PatternPrinting24.dll
+D:\C#\Programs\PatternPrinting24\bin\Debug\net5.0\ref\PatternPrinting24.dll
+D:\C#\Programs\PatternPrinting24\bin\Debug\net5.0\PatternPrinting24.pdb
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.csproj.AssemblyReference.cache
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.AssemblyInfoInputs.cache
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.AssemblyInfo.cs
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.csproj.CoreCompileInputs.cache
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.dll
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\ref\PatternPrinting24.dll
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.pdb
+D:\C#\Programs\PatternPrinting24\obj\Debug\net5.0\PatternPrinting24.genruntimeconfig.cache
