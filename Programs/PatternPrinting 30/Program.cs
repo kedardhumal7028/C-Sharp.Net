@@ -32,7 +32,7 @@ namespace PatternPrinting_30
             }
         }
 
-        static void Main(string[] args)
+        static void Main(string[] args) // Main Function
         {
             Console.WriteLine("Hello World!");
 
