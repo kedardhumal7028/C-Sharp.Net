@@ -1,0 +1,16 @@
+D:\C#\Programs\Print Ascii Table\bin\Debug\net5.0\Print Ascii Table.exe
+D:\C#\Programs\Print Ascii Table\bin\Debug\net5.0\Print Ascii Table.deps.json
+D:\C#\Programs\Print Ascii Table\bin\Debug\net5.0\Print Ascii Table.runtimeconfig.json
+D:\C#\Programs\Print Ascii Table\bin\Debug\net5.0\Print Ascii Table.runtimeconfig.dev.json
+D:\C#\Programs\Print Ascii Table\bin\Debug\net5.0\Print Ascii Table.dll
+D:\C#\Programs\Print Ascii Table\bin\Debug\net5.0\ref\Print Ascii Table.dll
+D:\C#\Programs\Print Ascii Table\bin\Debug\net5.0\Print Ascii Table.pdb
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.csproj.AssemblyReference.cache
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.AssemblyInfoInputs.cache
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.AssemblyInfo.cs
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.dll
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\ref\Print Ascii Table.dll
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.pdb
+D:\C#\Programs\Print Ascii Table\obj\Debug\net5.0\Print Ascii Table.genruntimeconfig.cache

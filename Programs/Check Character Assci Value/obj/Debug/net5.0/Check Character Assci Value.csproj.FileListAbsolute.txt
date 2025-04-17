@@ -1,0 +1,16 @@
+D:\C#\Programs\Check Character Assci Value\bin\Debug\net5.0\Check Character Assci Value.exe
+D:\C#\Programs\Check Character Assci Value\bin\Debug\net5.0\Check Character Assci Value.deps.json
+D:\C#\Programs\Check Character Assci Value\bin\Debug\net5.0\Check Character Assci Value.runtimeconfig.json
+D:\C#\Programs\Check Character Assci Value\bin\Debug\net5.0\Check Character Assci Value.runtimeconfig.dev.json
+D:\C#\Programs\Check Character Assci Value\bin\Debug\net5.0\Check Character Assci Value.dll
+D:\C#\Programs\Check Character Assci Value\bin\Debug\net5.0\ref\Check Character Assci Value.dll
+D:\C#\Programs\Check Character Assci Value\bin\Debug\net5.0\Check Character Assci Value.pdb
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.csproj.AssemblyReference.cache
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.AssemblyInfoInputs.cache
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.AssemblyInfo.cs
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.dll
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\ref\Check Character Assci Value.dll
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.pdb
+D:\C#\Programs\Check Character Assci Value\obj\Debug\net5.0\Check Character Assci Value.genruntimeconfig.cache
