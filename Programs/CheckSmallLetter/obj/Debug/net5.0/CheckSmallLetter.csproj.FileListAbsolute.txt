@@ -1,0 +1,16 @@
+D:\C#\Programs\CheckSmallLetter\bin\Debug\net5.0\CheckSmallLetter.exe
+D:\C#\Programs\CheckSmallLetter\bin\Debug\net5.0\CheckSmallLetter.deps.json
+D:\C#\Programs\CheckSmallLetter\bin\Debug\net5.0\CheckSmallLetter.runtimeconfig.json
+D:\C#\Programs\CheckSmallLetter\bin\Debug\net5.0\CheckSmallLetter.runtimeconfig.dev.json
+D:\C#\Programs\CheckSmallLetter\bin\Debug\net5.0\CheckSmallLetter.dll
+D:\C#\Programs\CheckSmallLetter\bin\Debug\net5.0\ref\CheckSmallLetter.dll
+D:\C#\Programs\CheckSmallLetter\bin\Debug\net5.0\CheckSmallLetter.pdb
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.csproj.AssemblyReference.cache
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.AssemblyInfo.cs
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.dll
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\ref\CheckSmallLetter.dll
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.pdb
+D:\C#\Programs\CheckSmallLetter\obj\Debug\net5.0\CheckSmallLetter.genruntimeconfig.cache

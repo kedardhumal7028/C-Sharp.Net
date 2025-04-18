@@ -1,0 +1,15 @@
+D:\C#\Programs\CheckCapitalLetter\bin\Debug\net5.0\CheckCapitalLetter.exe
+D:\C#\Programs\CheckCapitalLetter\bin\Debug\net5.0\CheckCapitalLetter.deps.json
+D:\C#\Programs\CheckCapitalLetter\bin\Debug\net5.0\CheckCapitalLetter.runtimeconfig.json
+D:\C#\Programs\CheckCapitalLetter\bin\Debug\net5.0\CheckCapitalLetter.runtimeconfig.dev.json
+D:\C#\Programs\CheckCapitalLetter\bin\Debug\net5.0\CheckCapitalLetter.dll
+D:\C#\Programs\CheckCapitalLetter\bin\Debug\net5.0\ref\CheckCapitalLetter.dll
+D:\C#\Programs\CheckCapitalLetter\bin\Debug\net5.0\CheckCapitalLetter.pdb
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\CheckCapitalLetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\CheckCapitalLetter.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\CheckCapitalLetter.AssemblyInfo.cs
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\CheckCapitalLetter.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\CheckCapitalLetter.dll
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\ref\CheckCapitalLetter.dll
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\CheckCapitalLetter.pdb
+D:\C#\Programs\CheckCapitalLetter\obj\Debug\net5.0\CheckCapitalLetter.genruntimeconfig.cache
