@@ -1,0 +1,15 @@
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\bin\Debug\net5.0\AcceptStringAndCountSmallCharacters.exe
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\bin\Debug\net5.0\AcceptStringAndCountSmallCharacters.deps.json
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\bin\Debug\net5.0\AcceptStringAndCountSmallCharacters.runtimeconfig.json
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\bin\Debug\net5.0\AcceptStringAndCountSmallCharacters.runtimeconfig.dev.json
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\bin\Debug\net5.0\AcceptStringAndCountSmallCharacters.dll
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\bin\Debug\net5.0\ref\AcceptStringAndCountSmallCharacters.dll
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\bin\Debug\net5.0\AcceptStringAndCountSmallCharacters.pdb
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\AcceptStringAndCountSmallCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\AcceptStringAndCountSmallCharacters.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\AcceptStringAndCountSmallCharacters.AssemblyInfo.cs
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\AcceptStringAndCountSmallCharacters.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\AcceptStringAndCountSmallCharacters.dll
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\ref\AcceptStringAndCountSmallCharacters.dll
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\AcceptStringAndCountSmallCharacters.pdb
+D:\C#\Programs\AcceptStringAndCountSmallCharacters\obj\Debug\net5.0\AcceptStringAndCountSmallCharacters.genruntimeconfig.cache

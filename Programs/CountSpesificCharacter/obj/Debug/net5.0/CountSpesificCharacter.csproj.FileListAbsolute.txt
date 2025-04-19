@@ -1,0 +1,16 @@
+D:\C#\Programs\CountSpesificCharacter\bin\Debug\net5.0\CountSpesificCharacter.exe
+D:\C#\Programs\CountSpesificCharacter\bin\Debug\net5.0\CountSpesificCharacter.deps.json
+D:\C#\Programs\CountSpesificCharacter\bin\Debug\net5.0\CountSpesificCharacter.runtimeconfig.json
+D:\C#\Programs\CountSpesificCharacter\bin\Debug\net5.0\CountSpesificCharacter.runtimeconfig.dev.json
+D:\C#\Programs\CountSpesificCharacter\bin\Debug\net5.0\CountSpesificCharacter.dll
+D:\C#\Programs\CountSpesificCharacter\bin\Debug\net5.0\ref\CountSpesificCharacter.dll
+D:\C#\Programs\CountSpesificCharacter\bin\Debug\net5.0\CountSpesificCharacter.pdb
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.csproj.AssemblyReference.cache
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.AssemblyInfoInputs.cache
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.AssemblyInfo.cs
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.dll
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\ref\CountSpesificCharacter.dll
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.pdb
+D:\C#\Programs\CountSpesificCharacter\obj\Debug\net5.0\CountSpesificCharacter.genruntimeconfig.cache

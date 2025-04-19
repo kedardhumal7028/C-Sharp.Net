@@ -1,0 +1,16 @@
+D:\C#\Programs\AcceptStringAndPrint\bin\Debug\net5.0\AcceptStringAndPrint.exe
+D:\C#\Programs\AcceptStringAndPrint\bin\Debug\net5.0\AcceptStringAndPrint.deps.json
+D:\C#\Programs\AcceptStringAndPrint\bin\Debug\net5.0\AcceptStringAndPrint.runtimeconfig.json
+D:\C#\Programs\AcceptStringAndPrint\bin\Debug\net5.0\AcceptStringAndPrint.runtimeconfig.dev.json
+D:\C#\Programs\AcceptStringAndPrint\bin\Debug\net5.0\AcceptStringAndPrint.dll
+D:\C#\Programs\AcceptStringAndPrint\bin\Debug\net5.0\ref\AcceptStringAndPrint.dll
+D:\C#\Programs\AcceptStringAndPrint\bin\Debug\net5.0\AcceptStringAndPrint.pdb
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.csproj.AssemblyReference.cache
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.AssemblyInfo.cs
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.dll
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\ref\AcceptStringAndPrint.dll
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.pdb
+D:\C#\Programs\AcceptStringAndPrint\obj\Debug\net5.0\AcceptStringAndPrint.genruntimeconfig.cache

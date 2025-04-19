@@ -1,0 +1,16 @@
+D:\C#\Programs\CheckStringLength\bin\Debug\net5.0\CheckStringLength.exe
+D:\C#\Programs\CheckStringLength\bin\Debug\net5.0\CheckStringLength.deps.json
+D:\C#\Programs\CheckStringLength\bin\Debug\net5.0\CheckStringLength.runtimeconfig.json
+D:\C#\Programs\CheckStringLength\bin\Debug\net5.0\CheckStringLength.runtimeconfig.dev.json
+D:\C#\Programs\CheckStringLength\bin\Debug\net5.0\CheckStringLength.dll
+D:\C#\Programs\CheckStringLength\bin\Debug\net5.0\ref\CheckStringLength.dll
+D:\C#\Programs\CheckStringLength\bin\Debug\net5.0\CheckStringLength.pdb
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.csproj.AssemblyReference.cache
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.AssemblyInfo.cs
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.dll
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\ref\CheckStringLength.dll
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.pdb
+D:\C#\Programs\CheckStringLength\obj\Debug\net5.0\CheckStringLength.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\Programs\CheckCharactersInGivenString\bin\Debug\net5.0\CheckCharactersInGivenString.exe
+D:\C#\Programs\CheckCharactersInGivenString\bin\Debug\net5.0\CheckCharactersInGivenString.deps.json
+D:\C#\Programs\CheckCharactersInGivenString\bin\Debug\net5.0\CheckCharactersInGivenString.runtimeconfig.json
+D:\C#\Programs\CheckCharactersInGivenString\bin\Debug\net5.0\CheckCharactersInGivenString.runtimeconfig.dev.json
+D:\C#\Programs\CheckCharactersInGivenString\bin\Debug\net5.0\CheckCharactersInGivenString.dll
+D:\C#\Programs\CheckCharactersInGivenString\bin\Debug\net5.0\ref\CheckCharactersInGivenString.dll
+D:\C#\Programs\CheckCharactersInGivenString\bin\Debug\net5.0\CheckCharactersInGivenString.pdb
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.AssemblyInfo.cs
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.dll
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\ref\CheckCharactersInGivenString.dll
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.pdb
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.genruntimeconfig.cache
+D:\C#\Programs\CheckCharactersInGivenString\obj\Debug\net5.0\CheckCharactersInGivenString.csproj.AssemblyReference.cache
