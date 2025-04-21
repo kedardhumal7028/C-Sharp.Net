@@ -1,0 +1,15 @@
+D:\C#\Programs\CountSpacesInString\bin\Debug\net5.0\CountSpacesInString.exe
+D:\C#\Programs\CountSpacesInString\bin\Debug\net5.0\CountSpacesInString.deps.json
+D:\C#\Programs\CountSpacesInString\bin\Debug\net5.0\CountSpacesInString.runtimeconfig.json
+D:\C#\Programs\CountSpacesInString\bin\Debug\net5.0\CountSpacesInString.runtimeconfig.dev.json
+D:\C#\Programs\CountSpacesInString\bin\Debug\net5.0\CountSpacesInString.dll
+D:\C#\Programs\CountSpacesInString\bin\Debug\net5.0\ref\CountSpacesInString.dll
+D:\C#\Programs\CountSpacesInString\bin\Debug\net5.0\CountSpacesInString.pdb
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\CountSpacesInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\CountSpacesInString.AssemblyInfoInputs.cache
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\CountSpacesInString.AssemblyInfo.cs
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\CountSpacesInString.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\CountSpacesInString.dll
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\ref\CountSpacesInString.dll
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\CountSpacesInString.pdb
+D:\C#\Programs\CountSpacesInString\obj\Debug\net5.0\CountSpacesInString.genruntimeconfig.cache

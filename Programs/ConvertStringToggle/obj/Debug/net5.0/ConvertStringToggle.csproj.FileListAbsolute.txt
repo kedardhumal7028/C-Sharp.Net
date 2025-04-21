@@ -1,0 +1,16 @@
+D:\C#\Programs\ConvertStringToggle\bin\Debug\net5.0\ConvertStringToggle.exe
+D:\C#\Programs\ConvertStringToggle\bin\Debug\net5.0\ConvertStringToggle.deps.json
+D:\C#\Programs\ConvertStringToggle\bin\Debug\net5.0\ConvertStringToggle.runtimeconfig.json
+D:\C#\Programs\ConvertStringToggle\bin\Debug\net5.0\ConvertStringToggle.runtimeconfig.dev.json
+D:\C#\Programs\ConvertStringToggle\bin\Debug\net5.0\ConvertStringToggle.dll
+D:\C#\Programs\ConvertStringToggle\bin\Debug\net5.0\ref\ConvertStringToggle.dll
+D:\C#\Programs\ConvertStringToggle\bin\Debug\net5.0\ConvertStringToggle.pdb
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.csproj.AssemblyReference.cache
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.AssemblyInfoInputs.cache
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.AssemblyInfo.cs
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.csproj.CoreCompileInputs.cache
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.dll
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ref\ConvertStringToggle.dll
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.pdb
+D:\C#\Programs\ConvertStringToggle\obj\Debug\net5.0\ConvertStringToggle.genruntimeconfig.cache

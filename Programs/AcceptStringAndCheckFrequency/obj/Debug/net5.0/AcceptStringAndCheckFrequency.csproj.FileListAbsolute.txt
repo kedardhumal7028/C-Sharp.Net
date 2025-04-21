@@ -1,0 +1,16 @@
+D:\C#\Programs\AcceptStringAndCheckFrequency\bin\Debug\net5.0\AcceptStringAndCheckFrequency.exe
+D:\C#\Programs\AcceptStringAndCheckFrequency\bin\Debug\net5.0\AcceptStringAndCheckFrequency.deps.json
+D:\C#\Programs\AcceptStringAndCheckFrequency\bin\Debug\net5.0\AcceptStringAndCheckFrequency.runtimeconfig.json
+D:\C#\Programs\AcceptStringAndCheckFrequency\bin\Debug\net5.0\AcceptStringAndCheckFrequency.runtimeconfig.dev.json
+D:\C#\Programs\AcceptStringAndCheckFrequency\bin\Debug\net5.0\AcceptStringAndCheckFrequency.dll
+D:\C#\Programs\AcceptStringAndCheckFrequency\bin\Debug\net5.0\ref\AcceptStringAndCheckFrequency.dll
+D:\C#\Programs\AcceptStringAndCheckFrequency\bin\Debug\net5.0\AcceptStringAndCheckFrequency.pdb
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.csproj.AssemblyReference.cache
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.AssemblyInfo.cs
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.dll
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\ref\AcceptStringAndCheckFrequency.dll
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.pdb
+D:\C#\Programs\AcceptStringAndCheckFrequency\obj\Debug\net5.0\AcceptStringAndCheckFrequency.genruntimeconfig.cache

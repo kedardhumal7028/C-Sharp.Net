@@ -1,0 +1,16 @@
+D:\C#\Programs\StringLowerX\bin\Debug\net5.0\StringLowerX.exe
+D:\C#\Programs\StringLowerX\bin\Debug\net5.0\StringLowerX.deps.json
+D:\C#\Programs\StringLowerX\bin\Debug\net5.0\StringLowerX.runtimeconfig.json
+D:\C#\Programs\StringLowerX\bin\Debug\net5.0\StringLowerX.runtimeconfig.dev.json
+D:\C#\Programs\StringLowerX\bin\Debug\net5.0\StringLowerX.dll
+D:\C#\Programs\StringLowerX\bin\Debug\net5.0\ref\StringLowerX.dll
+D:\C#\Programs\StringLowerX\bin\Debug\net5.0\StringLowerX.pdb
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.csproj.AssemblyReference.cache
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.AssemblyInfoInputs.cache
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.AssemblyInfo.cs
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.csproj.CoreCompileInputs.cache
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.dll
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\ref\StringLowerX.dll
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.pdb
+D:\C#\Programs\StringLowerX\obj\Debug\net5.0\StringLowerX.genruntimeconfig.cache

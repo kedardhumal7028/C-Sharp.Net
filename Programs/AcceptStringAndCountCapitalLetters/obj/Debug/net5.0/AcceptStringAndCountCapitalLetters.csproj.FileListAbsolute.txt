@@ -1,0 +1,16 @@
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\bin\Debug\net5.0\AcceptStringAndCountCapitalLetters.exe
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\bin\Debug\net5.0\AcceptStringAndCountCapitalLetters.deps.json
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\bin\Debug\net5.0\AcceptStringAndCountCapitalLetters.runtimeconfig.json
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\bin\Debug\net5.0\AcceptStringAndCountCapitalLetters.runtimeconfig.dev.json
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\bin\Debug\net5.0\AcceptStringAndCountCapitalLetters.dll
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\bin\Debug\net5.0\ref\AcceptStringAndCountCapitalLetters.dll
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\bin\Debug\net5.0\AcceptStringAndCountCapitalLetters.pdb
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.csproj.AssemblyReference.cache
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.AssemblyInfo.cs
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.dll
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\ref\AcceptStringAndCountCapitalLetters.dll
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.pdb
+D:\C#\Programs\AcceptStringAndCountCapitalLetters\obj\Debug\net5.0\AcceptStringAndCountCapitalLetters.genruntimeconfig.cache

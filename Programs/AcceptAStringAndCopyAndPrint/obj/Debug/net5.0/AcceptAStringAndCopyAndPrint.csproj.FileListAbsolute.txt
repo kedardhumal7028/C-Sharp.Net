@@ -1,0 +1,16 @@
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\bin\Debug\net5.0\AcceptAStringAndCopyAndPrint.exe
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\bin\Debug\net5.0\AcceptAStringAndCopyAndPrint.deps.json
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\bin\Debug\net5.0\AcceptAStringAndCopyAndPrint.runtimeconfig.json
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\bin\Debug\net5.0\AcceptAStringAndCopyAndPrint.runtimeconfig.dev.json
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\bin\Debug\net5.0\AcceptAStringAndCopyAndPrint.dll
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\bin\Debug\net5.0\ref\AcceptAStringAndCopyAndPrint.dll
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\bin\Debug\net5.0\AcceptAStringAndCopyAndPrint.pdb
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.csproj.AssemblyReference.cache
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.AssemblyInfo.cs
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.dll
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\ref\AcceptAStringAndCopyAndPrint.dll
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.pdb
+D:\C#\Programs\AcceptAStringAndCopyAndPrint\obj\Debug\net5.0\AcceptAStringAndCopyAndPrint.genruntimeconfig.cache

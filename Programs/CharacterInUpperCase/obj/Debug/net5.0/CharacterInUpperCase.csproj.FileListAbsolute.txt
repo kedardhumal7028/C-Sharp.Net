@@ -1,0 +1,16 @@
+D:\C#\Programs\CharacterInUpperCase\bin\Debug\net5.0\CharacterInUpperCase.exe
+D:\C#\Programs\CharacterInUpperCase\bin\Debug\net5.0\CharacterInUpperCase.deps.json
+D:\C#\Programs\CharacterInUpperCase\bin\Debug\net5.0\CharacterInUpperCase.runtimeconfig.json
+D:\C#\Programs\CharacterInUpperCase\bin\Debug\net5.0\CharacterInUpperCase.runtimeconfig.dev.json
+D:\C#\Programs\CharacterInUpperCase\bin\Debug\net5.0\CharacterInUpperCase.dll
+D:\C#\Programs\CharacterInUpperCase\bin\Debug\net5.0\ref\CharacterInUpperCase.dll
+D:\C#\Programs\CharacterInUpperCase\bin\Debug\net5.0\CharacterInUpperCase.pdb
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.csproj.AssemblyReference.cache
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.AssemblyInfoInputs.cache
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.AssemblyInfo.cs
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.dll
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\ref\CharacterInUpperCase.dll
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.pdb
+D:\C#\Programs\CharacterInUpperCase\obj\Debug\net5.0\CharacterInUpperCase.genruntimeconfig.cache

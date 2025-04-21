@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AcceptStringAndCountCapitalLetters/1.0.0": {
+        "runtime": {
+          "AcceptStringAndCountCapitalLetters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcceptStringAndCountCapitalLetters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

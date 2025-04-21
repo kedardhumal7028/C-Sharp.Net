@@ -1,0 +1,16 @@
+D:\C#\Programs\Character to toggle case\bin\Debug\net5.0\Character to toggle case.exe
+D:\C#\Programs\Character to toggle case\bin\Debug\net5.0\Character to toggle case.deps.json
+D:\C#\Programs\Character to toggle case\bin\Debug\net5.0\Character to toggle case.runtimeconfig.json
+D:\C#\Programs\Character to toggle case\bin\Debug\net5.0\Character to toggle case.runtimeconfig.dev.json
+D:\C#\Programs\Character to toggle case\bin\Debug\net5.0\Character to toggle case.dll
+D:\C#\Programs\Character to toggle case\bin\Debug\net5.0\ref\Character to toggle case.dll
+D:\C#\Programs\Character to toggle case\bin\Debug\net5.0\Character to toggle case.pdb
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.csproj.AssemblyReference.cache
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.AssemblyInfoInputs.cache
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.AssemblyInfo.cs
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.dll
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\ref\Character to toggle case.dll
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.pdb
+D:\C#\Programs\Character to toggle case\obj\Debug\net5.0\Character to toggle case.genruntimeconfig.cache

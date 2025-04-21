@@ -1,0 +1,16 @@
+D:\C#\Programs\CheckCharacterPresentOrNotInString\bin\Debug\net5.0\CheckCharacterPresentOrNotInString.exe
+D:\C#\Programs\CheckCharacterPresentOrNotInString\bin\Debug\net5.0\CheckCharacterPresentOrNotInString.deps.json
+D:\C#\Programs\CheckCharacterPresentOrNotInString\bin\Debug\net5.0\CheckCharacterPresentOrNotInString.runtimeconfig.json
+D:\C#\Programs\CheckCharacterPresentOrNotInString\bin\Debug\net5.0\CheckCharacterPresentOrNotInString.runtimeconfig.dev.json
+D:\C#\Programs\CheckCharacterPresentOrNotInString\bin\Debug\net5.0\CheckCharacterPresentOrNotInString.dll
+D:\C#\Programs\CheckCharacterPresentOrNotInString\bin\Debug\net5.0\ref\CheckCharacterPresentOrNotInString.dll
+D:\C#\Programs\CheckCharacterPresentOrNotInString\bin\Debug\net5.0\CheckCharacterPresentOrNotInString.pdb
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.csproj.AssemblyReference.cache
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.AssemblyInfoInputs.cache
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.AssemblyInfo.cs
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.csproj.CoreCompileInputs.cache
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.dll
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\ref\CheckCharacterPresentOrNotInString.dll
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.pdb
+D:\C#\Programs\CheckCharacterPresentOrNotInString\obj\Debug\net5.0\CheckCharacterPresentOrNotInString.genruntimeconfig.cache

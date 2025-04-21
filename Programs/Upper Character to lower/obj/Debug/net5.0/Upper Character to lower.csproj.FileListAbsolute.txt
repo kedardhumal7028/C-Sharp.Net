@@ -1,0 +1,16 @@
+D:\C#\Programs\Upper Character to lower\bin\Debug\net5.0\Upper Character to lower.exe
+D:\C#\Programs\Upper Character to lower\bin\Debug\net5.0\Upper Character to lower.deps.json
+D:\C#\Programs\Upper Character to lower\bin\Debug\net5.0\Upper Character to lower.runtimeconfig.json
+D:\C#\Programs\Upper Character to lower\bin\Debug\net5.0\Upper Character to lower.runtimeconfig.dev.json
+D:\C#\Programs\Upper Character to lower\bin\Debug\net5.0\Upper Character to lower.dll
+D:\C#\Programs\Upper Character to lower\bin\Debug\net5.0\ref\Upper Character to lower.dll
+D:\C#\Programs\Upper Character to lower\bin\Debug\net5.0\Upper Character to lower.pdb
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.csproj.AssemblyReference.cache
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.AssemblyInfoInputs.cache
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.AssemblyInfo.cs
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.csproj.CoreCompileInputs.cache
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.dll
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\ref\Upper Character to lower.dll
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.pdb
+D:\C#\Programs\Upper Character to lower\obj\Debug\net5.0\Upper Character to lower.genruntimeconfig.cache
