@@ -1,0 +1,16 @@
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.csproj.AssemblyReference.cache
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.AssemblyInfo.cs
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\bin\Debug\net5.0\AcceptCopyAndConvertToToggleString.exe
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\bin\Debug\net5.0\AcceptCopyAndConvertToToggleString.deps.json
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\bin\Debug\net5.0\AcceptCopyAndConvertToToggleString.runtimeconfig.json
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\bin\Debug\net5.0\AcceptCopyAndConvertToToggleString.runtimeconfig.dev.json
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\bin\Debug\net5.0\AcceptCopyAndConvertToToggleString.dll
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\bin\Debug\net5.0\ref\AcceptCopyAndConvertToToggleString.dll
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\bin\Debug\net5.0\AcceptCopyAndConvertToToggleString.pdb
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.dll
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\ref\AcceptCopyAndConvertToToggleString.dll
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.pdb
+D:\C#\Programs\AcceptCopyAndConvertToToggleString\obj\Debug\net5.0\AcceptCopyAndConvertToToggleString.genruntimeconfig.cache

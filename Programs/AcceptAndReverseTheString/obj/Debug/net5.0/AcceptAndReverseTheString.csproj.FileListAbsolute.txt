@@ -1,0 +1,16 @@
+D:\C#\Programs\AcceptAndReverseTheString\bin\Debug\net5.0\AcceptAndReverseTheString.exe
+D:\C#\Programs\AcceptAndReverseTheString\bin\Debug\net5.0\AcceptAndReverseTheString.deps.json
+D:\C#\Programs\AcceptAndReverseTheString\bin\Debug\net5.0\AcceptAndReverseTheString.runtimeconfig.json
+D:\C#\Programs\AcceptAndReverseTheString\bin\Debug\net5.0\AcceptAndReverseTheString.runtimeconfig.dev.json
+D:\C#\Programs\AcceptAndReverseTheString\bin\Debug\net5.0\AcceptAndReverseTheString.dll
+D:\C#\Programs\AcceptAndReverseTheString\bin\Debug\net5.0\ref\AcceptAndReverseTheString.dll
+D:\C#\Programs\AcceptAndReverseTheString\bin\Debug\net5.0\AcceptAndReverseTheString.pdb
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.csproj.AssemblyReference.cache
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.AssemblyInfoInputs.cache
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.AssemblyInfo.cs
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.csproj.CoreCompileInputs.cache
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.dll
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\ref\AcceptAndReverseTheString.dll
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.pdb
+D:\C#\Programs\AcceptAndReverseTheString\obj\Debug\net5.0\AcceptAndReverseTheString.genruntimeconfig.cache
