@@ -1,0 +1,16 @@
+D:\C#\Programs\DS Example 7\bin\Debug\net5.0\DS Example 7.exe
+D:\C#\Programs\DS Example 7\bin\Debug\net5.0\DS Example 7.deps.json
+D:\C#\Programs\DS Example 7\bin\Debug\net5.0\DS Example 7.runtimeconfig.json
+D:\C#\Programs\DS Example 7\bin\Debug\net5.0\DS Example 7.runtimeconfig.dev.json
+D:\C#\Programs\DS Example 7\bin\Debug\net5.0\DS Example 7.dll
+D:\C#\Programs\DS Example 7\bin\Debug\net5.0\ref\DS Example 7.dll
+D:\C#\Programs\DS Example 7\bin\Debug\net5.0\DS Example 7.pdb
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.csproj.AssemblyReference.cache
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.AssemblyInfoInputs.cache
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.AssemblyInfo.cs
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.csproj.CoreCompileInputs.cache
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.dll
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\ref\DS Example 7.dll
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.pdb
+D:\C#\Programs\DS Example 7\obj\Debug\net5.0\DS Example 7.genruntimeconfig.cache

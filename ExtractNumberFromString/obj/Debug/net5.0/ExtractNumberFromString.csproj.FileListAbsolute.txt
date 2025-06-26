@@ -1,0 +1,16 @@
+D:\C#\ExtractNumberFromString\bin\Debug\net5.0\ExtractNumberFromString.exe
+D:\C#\ExtractNumberFromString\bin\Debug\net5.0\ExtractNumberFromString.deps.json
+D:\C#\ExtractNumberFromString\bin\Debug\net5.0\ExtractNumberFromString.runtimeconfig.json
+D:\C#\ExtractNumberFromString\bin\Debug\net5.0\ExtractNumberFromString.runtimeconfig.dev.json
+D:\C#\ExtractNumberFromString\bin\Debug\net5.0\ExtractNumberFromString.dll
+D:\C#\ExtractNumberFromString\bin\Debug\net5.0\ref\ExtractNumberFromString.dll
+D:\C#\ExtractNumberFromString\bin\Debug\net5.0\ExtractNumberFromString.pdb
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.csproj.AssemblyReference.cache
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.AssemblyInfoInputs.cache
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.AssemblyInfo.cs
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.csproj.CoreCompileInputs.cache
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.dll
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ref\ExtractNumberFromString.dll
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.pdb
+D:\C#\ExtractNumberFromString\obj\Debug\net5.0\ExtractNumberFromString.genruntimeconfig.cache

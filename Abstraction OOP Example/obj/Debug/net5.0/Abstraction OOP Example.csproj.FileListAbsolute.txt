@@ -1,0 +1,15 @@
+D:\C#\Abstraction OOP Example\bin\Debug\net5.0\Abstraction OOP Example.exe
+D:\C#\Abstraction OOP Example\bin\Debug\net5.0\Abstraction OOP Example.deps.json
+D:\C#\Abstraction OOP Example\bin\Debug\net5.0\Abstraction OOP Example.runtimeconfig.json
+D:\C#\Abstraction OOP Example\bin\Debug\net5.0\Abstraction OOP Example.runtimeconfig.dev.json
+D:\C#\Abstraction OOP Example\bin\Debug\net5.0\Abstraction OOP Example.dll
+D:\C#\Abstraction OOP Example\bin\Debug\net5.0\ref\Abstraction OOP Example.dll
+D:\C#\Abstraction OOP Example\bin\Debug\net5.0\Abstraction OOP Example.pdb
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\Abstraction OOP Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\Abstraction OOP Example.AssemblyInfoInputs.cache
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\Abstraction OOP Example.AssemblyInfo.cs
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\Abstraction OOP Example.csproj.CoreCompileInputs.cache
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\Abstraction OOP Example.dll
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\ref\Abstraction OOP Example.dll
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\Abstraction OOP Example.pdb
+D:\C#\Abstraction OOP Example\obj\Debug\net5.0\Abstraction OOP Example.genruntimeconfig.cache

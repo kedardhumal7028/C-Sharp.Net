@@ -1,0 +1,16 @@
+D:\C#\Encapsulation OOP Example\bin\Debug\net5.0\Encapsulation OOP Example.exe
+D:\C#\Encapsulation OOP Example\bin\Debug\net5.0\Encapsulation OOP Example.deps.json
+D:\C#\Encapsulation OOP Example\bin\Debug\net5.0\Encapsulation OOP Example.runtimeconfig.json
+D:\C#\Encapsulation OOP Example\bin\Debug\net5.0\Encapsulation OOP Example.runtimeconfig.dev.json
+D:\C#\Encapsulation OOP Example\bin\Debug\net5.0\Encapsulation OOP Example.dll
+D:\C#\Encapsulation OOP Example\bin\Debug\net5.0\ref\Encapsulation OOP Example.dll
+D:\C#\Encapsulation OOP Example\bin\Debug\net5.0\Encapsulation OOP Example.pdb
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.csproj.AssemblyReference.cache
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.AssemblyInfoInputs.cache
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.AssemblyInfo.cs
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.csproj.CoreCompileInputs.cache
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.dll
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\ref\Encapsulation OOP Example.dll
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.pdb
+D:\C#\Encapsulation OOP Example\obj\Debug\net5.0\Encapsulation OOP Example.genruntimeconfig.cache

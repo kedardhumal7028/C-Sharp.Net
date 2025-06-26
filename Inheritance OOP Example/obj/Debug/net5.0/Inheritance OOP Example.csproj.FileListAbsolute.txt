@@ -1,0 +1,16 @@
+D:\C#\Inheritance OOP Example\bin\Debug\net5.0\Inheritance OOP Example.exe
+D:\C#\Inheritance OOP Example\bin\Debug\net5.0\Inheritance OOP Example.deps.json
+D:\C#\Inheritance OOP Example\bin\Debug\net5.0\Inheritance OOP Example.runtimeconfig.json
+D:\C#\Inheritance OOP Example\bin\Debug\net5.0\Inheritance OOP Example.runtimeconfig.dev.json
+D:\C#\Inheritance OOP Example\bin\Debug\net5.0\Inheritance OOP Example.dll
+D:\C#\Inheritance OOP Example\bin\Debug\net5.0\ref\Inheritance OOP Example.dll
+D:\C#\Inheritance OOP Example\bin\Debug\net5.0\Inheritance OOP Example.pdb
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.csproj.AssemblyReference.cache
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.AssemblyInfoInputs.cache
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.AssemblyInfo.cs
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.dll
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\ref\Inheritance OOP Example.dll
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.pdb
+D:\C#\Inheritance OOP Example\obj\Debug\net5.0\Inheritance OOP Example.genruntimeconfig.cache

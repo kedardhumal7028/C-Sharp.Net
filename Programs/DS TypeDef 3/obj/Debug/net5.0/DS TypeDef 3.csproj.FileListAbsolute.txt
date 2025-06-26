@@ -1,0 +1,15 @@
+D:\C#\Programs\DS TypeDef 3\bin\Debug\net5.0\DS TypeDef 3.exe
+D:\C#\Programs\DS TypeDef 3\bin\Debug\net5.0\DS TypeDef 3.deps.json
+D:\C#\Programs\DS TypeDef 3\bin\Debug\net5.0\DS TypeDef 3.runtimeconfig.json
+D:\C#\Programs\DS TypeDef 3\bin\Debug\net5.0\DS TypeDef 3.runtimeconfig.dev.json
+D:\C#\Programs\DS TypeDef 3\bin\Debug\net5.0\DS TypeDef 3.dll
+D:\C#\Programs\DS TypeDef 3\bin\Debug\net5.0\ref\DS TypeDef 3.dll
+D:\C#\Programs\DS TypeDef 3\bin\Debug\net5.0\DS TypeDef 3.pdb
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\DS TypeDef 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\DS TypeDef 3.AssemblyInfoInputs.cache
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\DS TypeDef 3.AssemblyInfo.cs
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\DS TypeDef 3.csproj.CoreCompileInputs.cache
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\DS TypeDef 3.dll
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\ref\DS TypeDef 3.dll
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\DS TypeDef 3.pdb
+D:\C#\Programs\DS TypeDef 3\obj\Debug\net5.0\DS TypeDef 3.genruntimeconfig.cache

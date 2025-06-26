@@ -1,0 +1,16 @@
+D:\C#\Maximum Number of Words\bin\Debug\net5.0\Maximum Number of Words.exe
+D:\C#\Maximum Number of Words\bin\Debug\net5.0\Maximum Number of Words.deps.json
+D:\C#\Maximum Number of Words\bin\Debug\net5.0\Maximum Number of Words.runtimeconfig.json
+D:\C#\Maximum Number of Words\bin\Debug\net5.0\Maximum Number of Words.runtimeconfig.dev.json
+D:\C#\Maximum Number of Words\bin\Debug\net5.0\Maximum Number of Words.dll
+D:\C#\Maximum Number of Words\bin\Debug\net5.0\ref\Maximum Number of Words.dll
+D:\C#\Maximum Number of Words\bin\Debug\net5.0\Maximum Number of Words.pdb
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.csproj.AssemblyReference.cache
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.AssemblyInfoInputs.cache
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.AssemblyInfo.cs
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.csproj.CoreCompileInputs.cache
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.dll
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\ref\Maximum Number of Words.dll
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.pdb
+D:\C#\Maximum Number of Words\obj\Debug\net5.0\Maximum Number of Words.genruntimeconfig.cache

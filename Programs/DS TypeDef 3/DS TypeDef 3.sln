@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS TypeDef 3", "DS TypeDef 3.csproj", "{67152C20-694D-4E5F-AF76-92C24768CFC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67152C20-694D-4E5F-AF76-92C24768CFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67152C20-694D-4E5F-AF76-92C24768CFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67152C20-694D-4E5F-AF76-92C24768CFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67152C20-694D-4E5F-AF76-92C24768CFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3CB5787-0DDE-4B52-B5B9-E34F297444A5}
+	EndGlobalSection
+EndGlobal
