@@ -1,0 +1,16 @@
+D:\C#\CheckCharacterFrequencyInString\bin\Debug\net5.0\CheckCharacterFrequencyInString.exe
+D:\C#\CheckCharacterFrequencyInString\bin\Debug\net5.0\CheckCharacterFrequencyInString.deps.json
+D:\C#\CheckCharacterFrequencyInString\bin\Debug\net5.0\CheckCharacterFrequencyInString.runtimeconfig.json
+D:\C#\CheckCharacterFrequencyInString\bin\Debug\net5.0\CheckCharacterFrequencyInString.runtimeconfig.dev.json
+D:\C#\CheckCharacterFrequencyInString\bin\Debug\net5.0\CheckCharacterFrequencyInString.dll
+D:\C#\CheckCharacterFrequencyInString\bin\Debug\net5.0\ref\CheckCharacterFrequencyInString.dll
+D:\C#\CheckCharacterFrequencyInString\bin\Debug\net5.0\CheckCharacterFrequencyInString.pdb
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.csproj.AssemblyReference.cache
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.AssemblyInfoInputs.cache
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.AssemblyInfo.cs
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.csproj.CoreCompileInputs.cache
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.dll
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\ref\CheckCharacterFrequencyInString.dll
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.pdb
+D:\C#\CheckCharacterFrequencyInString\obj\Debug\net5.0\CheckCharacterFrequencyInString.genruntimeconfig.cache

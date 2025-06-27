@@ -1,0 +1,16 @@
+D:\C#\ArrangePositiveToNegativeNumberString\bin\Debug\net5.0\ArrangePositiveToNegativeNumberString.exe
+D:\C#\ArrangePositiveToNegativeNumberString\bin\Debug\net5.0\ArrangePositiveToNegativeNumberString.deps.json
+D:\C#\ArrangePositiveToNegativeNumberString\bin\Debug\net5.0\ArrangePositiveToNegativeNumberString.runtimeconfig.json
+D:\C#\ArrangePositiveToNegativeNumberString\bin\Debug\net5.0\ArrangePositiveToNegativeNumberString.runtimeconfig.dev.json
+D:\C#\ArrangePositiveToNegativeNumberString\bin\Debug\net5.0\ArrangePositiveToNegativeNumberString.dll
+D:\C#\ArrangePositiveToNegativeNumberString\bin\Debug\net5.0\ref\ArrangePositiveToNegativeNumberString.dll
+D:\C#\ArrangePositiveToNegativeNumberString\bin\Debug\net5.0\ArrangePositiveToNegativeNumberString.pdb
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.csproj.AssemblyReference.cache
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.AssemblyInfoInputs.cache
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.AssemblyInfo.cs
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.csproj.CoreCompileInputs.cache
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.dll
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ref\ArrangePositiveToNegativeNumberString.dll
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.pdb
+D:\C#\ArrangePositiveToNegativeNumberString\obj\Debug\net5.0\ArrangePositiveToNegativeNumberString.genruntimeconfig.cache
